@@ -4,16 +4,15 @@
      (BI) techniques.
    * The project involves data collection, transformation, modeling, ETL processing and visualization to provide stakeholders with actionable insights for decision- 
      making.
-
+  ### DataSet: https://drive.google.com/drive/folders/1SgYQoRI7MOcaLrpgCZQnJK2771Aq7gVB?usp=sharing 
 # Tools and Languages Used:
    * Microsoft SQL Server: Used for data storage, management, and querying.
    * Visual Studio: Utilized for developing SSIS packages for the ETL process.
    * SSRS (SQL Server Reporting Services): Employed for designing and deploying interactive report.
-   * Power BI: Leveraged for creating dynamic and visually appealing dashboards and visualizations.     
-
+   * Power BI: Leveraged for creating dynamic and visually appealing dashboards and visualizations.
+  
 # Key Responsibilities:
-   * Data Collection: Data was collected from various sources, including Aus_Suburb Data, House Value, Rental Value, school, transport and crime 
-     statistics. 
+   * Data Collection: Data was collected from various sources, including Aus_Suburb Data, House Value, Rental Value, school, transport and crime statistics. 
    * Data Transformation: The collected data was meticulously transformed and cleansed to ensure accuracy and integrity.
    * Data Modeling: A robust data model was designed using the Snowflake schema, incorporating dimension and fact tables to support reporting and analysis 
      requirements.SQL queries were used to create dimensions and fact tables, establish primary and foreign key relationships, and ensure data integrity.
